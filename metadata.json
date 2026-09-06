@@ -1,0 +1,6 @@
+{
+  "name": "Championship Ludo",
+  "description": "An original modern Ludo strategy game featuring Classic, Quick, 2v2 Team, Ranked, and Tournament modes with power-ups, board themes, dice skins, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
